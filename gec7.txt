@@ -1,1 +1,2 @@
 This is Git and GitHub workshop
+And the Students are awesome.
